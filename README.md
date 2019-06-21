@@ -1,5 +1,9 @@
 # RTKLIB
 RTKLIB开源库有着强大的GPS数据实时和后处理功能，由于笔者的毕业设计中需要对GPS载波相位观测量进行RTK解算，故而，对RTKLIB开源库进行了学习与研究。  RTKLIB提供了很多底层的函数，笔者准备直接对源码进行编译输出标准DLL的方式供C#调用。所用的VS平台是VS2012（其它VS版本类似），RTKLIB库用的是网上使用的最多，相对稳定的rtklib_2.4.2版本，编译的项目采用“相对路径”，即工程可移植到任何地方，方便以后使用。
+
+
+
+
 RTKLIB简介（rtklib_2.4.2版本）
 RTKLIB是全球导航卫星系统GNSS(global navigation satellite system)的标准&精密定位开源程序包，RTKLIB由日本东京海洋大学（Tokyo Universityof Marine Science and Technology）的高须知二（Tomoji Takasu）开发。RTKLIB由一个便携式程序库和多个AP（应用程序）工具库组成。
 
