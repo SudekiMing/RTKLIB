@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\rcv">
+      <UniqueIdentifier>{a4a66d09-a1d0-414c-85d1-aee1d7aa0717}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\convkml.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\convrnx.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\datum.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\download.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ephemeris.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\geoid.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ionex.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\lambda.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\options.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\pntpos.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\postpos.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ppp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ppp_ar.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\preceph.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\qzslex.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rcvraw.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rinex.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rtcm.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rtcm2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rtcm3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rtcm3e.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rtkcmn.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rtkpos.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rtksvr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sbas.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\solution.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\stream.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\streamsvr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tle.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rcv\binex.c">
+      <Filter>源文件\rcv</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rcv\crescent.c">
+      <Filter>源文件\rcv</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rcv\gw10.c">
+      <Filter>源文件\rcv</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rcv\javad.c">
+      <Filter>源文件\rcv</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rcv\novatel.c">
+      <Filter>源文件\rcv</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rcv\nvs.c">
+      <Filter>源文件\rcv</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rcv\rcvlex.c">
+      <Filter>源文件\rcv</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rcv\rt17.c">
+      <Filter>源文件\rcv</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rcv\septentrio.c">
+      <Filter>源文件\rcv</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rcv\skytraq.c">
+      <Filter>源文件\rcv</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rcv\ss2.c">
+      <Filter>源文件\rcv</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rcv\ublox.c">
+      <Filter>源文件\rcv</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\rtklib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

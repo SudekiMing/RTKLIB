@@ -1,0 +1,101 @@
+﻿  tle.c
+  streamsvr.c
+  stream.c
+d:\workplace\github\rtklib\rtklib\src\stream.c(309): warning C4133: “函数”: 从“char [128]”到“LPCWSTR”的类型不兼容
+d:\workplace\github\rtklib\rtklib\src\stream.c(324): warning C4133: “函数”: 从“char [64]”到“LPCWSTR”的类型不兼容
+d:\workplace\github\rtklib\rtklib\src\stream.c(628): warning C4101: “rs”: 未引用的局部变量
+  solution.c
+  sbas.c
+  rtksvr.c
+  rtkpos.c
+  rtkcmn.c
+d:\workplace\github\rtklib\rtklib\src\rtkcmn.c(3020): warning C4133: “函数”: 从“char [1024]”到“LPCWSTR”的类型不兼容
+  rtcm3e.c
+  rtcm3.c
+  rtcm2.c
+  rtcm.c
+  rinex.c
+  ublox.c
+  ss2.c
+  skytraq.c
+d:\workplace\github\rtklib\rtklib\src\rcv\skytraq.c(197): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\skytraq.c(319): warning C4244: “=”: 从“unsigned short”转换到“unsigned char”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\skytraq.c(326): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  septentrio.c
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(229): warning C4101: “dTowInt”: 未引用的局部变量
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(229): warning C4101: “freq”: 未引用的局部变量
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(227): warning C4101: “tn”: 未引用的局部变量
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(229): warning C4101: “lli”: 未引用的局部变量
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(229): warning C4101: “index”: 未引用的局部变量
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(231): warning C4101: “q”: 未引用的局部变量
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(231): warning C4101: “tstr”: 未引用的局部变量
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(227): warning C4101: “CurrentTime”: 未引用的局部变量
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(229): warning C4101: “pos”: 未引用的局部变量
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(546): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(548): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(550): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(552): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(554): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(556): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(558): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(560): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(562): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(564): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(566): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(568): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(570): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(572): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(574): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(576): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(578): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(580): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(820): warning C4101: “toc”: 未引用的局部变量
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(874): warning C4101: “toc”: 未引用的局部变量
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(934): warning C4101: “prn”: 未引用的局部变量
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(997): warning C4101: “id”: 未引用的局部变量
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(994): warning C4101: “sat”: 未引用的局部变量
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(997): warning C4101: “resp”: 未引用的局部变量
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(1025): warning C4101: “i”: 未引用的局部变量
+d:\workplace\github\rtklib\rtklib\src\rcv\septentrio.c(1021): warning C4101: “fid”: 未引用的局部变量
+  rt17.c
+d:\workplace\github\rtklib\rtklib\src\rcv\rt17.c(1713): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\rt17.c(1746): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  rcvlex.c
+  nvs.c
+d:\workplace\github\rtklib\rtklib\src\rcv\nvs.c(105): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\nvs.c(267): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  novatel.c
+  javad.c
+  gw10.c
+  crescent.c
+  binex.c
+d:\workplace\github\rtklib\rtklib\src\rcv\binex.c(1004): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\workplace\github\rtklib\rtklib\src\rcv\binex.c(1029): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  rcvraw.c
+  qzslex.c
+  preceph.c
+  ppp_ar.c
+  ppp.c
+  postpos.c
+  pntpos.c
+  options.c
+  lambda.c
+  ionex.c
+  geoid.c
+  ephemeris.c
+  download.c
+d:\workplace\github\rtklib\rtklib\src\download.c(132): warning C4133: “函数”: 从“const char *”到“LPCWSTR”的类型不兼容
+d:\workplace\github\rtklib\rtklib\src\download.c(286): warning C4133: “函数”: 从“char [1024]”到“LPCWSTR”的类型不兼容
+d:\workplace\github\rtklib\rtklib\src\download.c(292): warning C4133: “函数”: 从“const char *”到“LPCWSTR”的类型不兼容
+d:\workplace\github\rtklib\rtklib\src\download.c(322): warning C4101: “stat”: 未引用的局部变量
+d:\workplace\github\rtklib\rtklib\src\download.c(505): warning C4101: “remot_p”: 未引用的局部变量
+d:\workplace\github\rtklib\rtklib\src\download.c(776): warning C4101: “tow”: 未引用的局部变量
+  datum.c
+  convrnx.c
+  正在生成代码...
+  正在编译...
+  convkml.c
+  正在生成代码...
+  RTKLIB.vcxproj -> D:\Workplace\GitHub\RTKLIB\Debug\RTKLIB.dll
